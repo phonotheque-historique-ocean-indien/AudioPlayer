@@ -9,4 +9,3 @@ The Articles plugin allows to display specific contents for PHOI stored inside C
 ![Article page example](./documentation/article_phoi.png?raw=true)
 
 ![CA Providence](./documentation/phoi_article_backoffice.png?raw=true)
-# AudioPlayer
